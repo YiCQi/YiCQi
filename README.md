@@ -1,4 +1,6 @@
-### Hi
+### Hi！I'm a freshman in ZJU&UoE. My major is Biomedical Informatics and I love it.
+### By the way, I love playing and making games.
+### Now I mostly use Github to do the homework... 
 
 <!--
 **YiCQi/YiCQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
