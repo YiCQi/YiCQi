@@ -1,4 +1,4 @@
-### Hi！I'm a freshman in ZJU&UoE. My major is Biomedical Informatics and I love it.
+### Hi！I'm an undergraduated student in ZJU&UoE. My major is Biomedical Informatics and I love it.
 ### By the way, I love playing and making games.
 ### Hope you like my works!
 
