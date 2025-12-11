@@ -1,5 +1,5 @@
 ### Hi！I'm an undergraduated student in ZJU&UoE. My major is Biomedical Informatics and I love it.
-### By the way, I love playing and making games.
+### BTW, I love playing and making games.
 ### Hope you like my works!
 
 <!--
